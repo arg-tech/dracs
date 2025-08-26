@@ -4,6 +4,8 @@
 
 This repo contains a code for `DRACS: Diachronic Representation of Argument Construction Styles` paper.
 
+For oAMF implementation of DRACS, see [here](https://github.com/arg-tech/dracs_oamf)
+
 
 # How to run and customize the code
 
